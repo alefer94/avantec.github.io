@@ -98,7 +98,7 @@
                                                     <li><a href="single-product.html">Single Product</a></li>
                                                 </ul>
                                             </li>
-                                            <li class="menu-item-has-children"><a href="contact-us.html">Contacts</a>
+                                            <li class="menu-item-has-children"><a href="contacto.php">Contacts</a>
                                                 <ul class="sub-menu">
                                                     <li><a href="free-a-quote.html">Free a Quote</a></li>
                                                 </ul>
@@ -237,7 +237,7 @@
                                     </ul>
                                 </li>
                                 <!-- Fin menu movil-->
-                                <li class="menu-item-has-children"><a href="contact-us.html">Contacto</a>
+                                <li class="menu-item-has-children"><a href="contacto.php">Contacto</a>
                                     <ul class="sub-menu">
                                         <li><a href="free-a-quote.html">Free a Quote</a></li>
                                     </ul>
@@ -249,6 +249,10 @@
                 </div>
             </div>
         </header>
+
+
+
+
 
 
 
